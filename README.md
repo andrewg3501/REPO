@@ -1,3 +1,3 @@
-1) automatic merge is when the owner answers the question, then add commit and push and then collabortator pull
+1) automatic merge is when two people merge on the same line without conflict
 
 2) merge conflict is
